@@ -1,0 +1,11 @@
+Searches- Meaning how many customers have put in from and to location.
+searches_got_estimate-customers checking for amount
+searches_for_quotes-customer ok with the amount and searches for drivers
+searches_got_quotes-customer got a driver or not
+customer_not_cancelled-1 means True
+driver_not_cancelled-1 means True
+
+
+
+
+
